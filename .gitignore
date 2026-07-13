@@ -1,0 +1,11 @@
+# Python secrets and local output
+spotify-importer/.env
+spotify-importer/.cache
+spotify-importer/not_found.txt
+spotify-importer/.spotify-import-state.json
+spotify-importer/__pycache__/
+
+# Export files and editor files
+tracks.txt
+.vscode/
+.idea/

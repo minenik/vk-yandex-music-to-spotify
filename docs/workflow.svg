@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Music export workflow</title>
+  <desc id="desc">VK Music and Yandex Music export tracks to a text file, then a Python script imports them into Spotify.</desc>
+  <rect width="1200" height="360" rx="32" fill="#101828"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(80 80)">
+      <rect width="260" height="200" rx="24" fill="#1d2939" stroke="#344054"/>
+      <circle cx="130" cy="65" r="30" fill="#4776e6"/>
+      <path d="M122 44v40a12 12 0 1 1-8-11V52l27-7v31a12 12 0 1 1-8-11V54z" fill="white"/>
+      <text x="130" y="135" fill="white" font-size="24" font-weight="700">VK Music</text>
+      <text x="130" y="166" fill="#98a2b3" font-size="20">Yandex Music</text>
+    </g>
+    <path d="M370 180h110" stroke="#84adff" stroke-width="10" stroke-linecap="round"/>
+    <path d="M460 155l30 25-30 25" fill="none" stroke="#84adff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(500 80)">
+      <rect width="200" height="200" rx="24" fill="#eef4ff"/>
+      <path d="M60 45h66l34 34v76c0 11-9 20-20 20H60c-11 0-20-9-20-20V65c0-11 9-20 20-20z" fill="#4776e6"/>
+      <path d="M126 45v38h34" fill="none" stroke="white" stroke-width="10" stroke-linejoin="round"/>
+      <text x="100" y="142" fill="white" font-size="22" font-weight="700">tracks.txt</text>
+    </g>
+    <path d="M730 180h110" stroke="#84adff" stroke-width="10" stroke-linecap="round"/>
+    <path d="M820 155l30 25-30 25" fill="none" stroke="#84adff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(860 80)">
+      <rect width="260" height="200" rx="24" fill="#1ed760"/>
+      <circle cx="130" cy="72" r="39" fill="#101828"/>
+      <path d="M106 64c25-7 47-3 61 5M106 78c25-7 47-3 61 5M109 92c21-5 39-2 51 4" fill="none" stroke="#1ed760" stroke-width="7" stroke-linecap="round"/>
+      <text x="130" y="145" fill="#101828" font-size="25" font-weight="700">Spotify</text>
+      <text x="130" y="174" fill="#075c28" font-size="18">Liked Songs</text>
+    </g>
+  </g>
+</svg>
